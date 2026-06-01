@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+<component>
+<name>TCPU</name>
+<compress>0</compress>
+</component>
+<maxStashInfo>52428800</maxStashInfo>
+<supportPKI>1</supportPKI>
+<packageType>full</packageType>
+<packageSolution>cust</packageSolution>
+<VirtualAB>
+<support>1</support>
+<supportCowCompress>0</supportCowCompress>
+<ForceCowCompress>0</ForceCowCompress>
+<compressCowSize>0</compressCowSize>
+<cowsize>616833024</cowsize>
+<payloadOffset>799</payloadOffset>
+<fileHash>ABnaVKQPBuMv9gjuNnHYXsa7qDAMrjx0RZqBK0wjcnE=</fileHash>
+<fileSize>171413687</fileSize>
+<metadataHash>I2cc3fPz2AX1r8xV/jGCgENEsqqq5yGfcARAv9hK6RE=</metadataHash>
+<metadataSize>15980</metadataSize>
+<powerWash>0</powerWash>
+<switchSlotOnReboot>1</switchSlotOnReboot>
+<runPostInstall>1</runPostInstall>
+</VirtualAB>
+<vendorInfo name="cust" package="update_full_cust_BVL-N49_opr_eea.zip" precut_size="0" subpath=""/>
+<files>
+<file>
+<spath>update_full_cust_BVL-N49_opr_eea.zip</spath>
+<dpath>update_full_cust_BVL-N49_opr_eea.zip</dpath>
+<operation>c</operation>
+<sha256>8CD4F8061F5F2E0BF3690D6F5A4D3043FE29F2D0FA40E919E5FAF1BA094E19A0</sha256>
+<size>171420875</size>
+</file>
+</files>
+</root>

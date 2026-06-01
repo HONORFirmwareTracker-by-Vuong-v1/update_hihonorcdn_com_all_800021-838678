@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+<component>
+<name>TCPU</name>
+<compress>0</compress>
+</component>
+<maxStashInfo>52428800</maxStashInfo>
+<supportPKI>1</supportPKI>
+<packageType>increment</packageType>
+<packageSolution>preload</packageSolution>
+<VirtualAB>
+<support>1</support>
+<supportCowCompress>0</supportCowCompress>
+<ForceCowCompress>0</ForceCowCompress>
+<compressCowSize>0</compressCowSize>
+<cowsize>1872723968</cowsize>
+<payloadOffset>940</payloadOffset>
+<fileHash>vGqNkg4k0NbP6s7AmDquoiGVixIsJVYWfx3CQSJ3+qg=</fileHash>
+<fileSize>316655939</fileSize>
+<metadataHash>AFvg+FVpwawzsDpNskZEf2JobLda78+lmgybWxifsbk=</metadataHash>
+<metadataSize>64927</metadataSize>
+<powerWash>0</powerWash>
+<switchSlotOnReboot>1</switchSlotOnReboot>
+<runPostInstall>1</runPostInstall>
+</VirtualAB>
+<vendorInfo name="preload" package="update_preload_VKI-AN00_all_cn_R203.zip" precut_size="0" subpath=""/>
+<files>
+<file>
+<spath>update_preload_VKI-AN00_all_cn_R203.zip</spath>
+<dpath>update_preload_VKI-AN00_all_cn_R203.zip</dpath>
+<operation>c</operation>
+<sha256>DD8A664D3106D0AA971EB14CC3D8BDF9444D9C123BAF164A8445C4C1D5DBA258</sha256>
+<size>316663290</size>
+</file>
+</files>
+</root>

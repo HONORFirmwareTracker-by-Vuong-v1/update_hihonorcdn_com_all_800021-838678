@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+<component>
+<name>TCPU</name>
+<compress>0</compress>
+</component>
+<maxStashInfo>52428800</maxStashInfo>
+<supportPKI>1</supportPKI>
+<packageType>increment</packageType>
+<packageSolution>cust</packageSolution>
+<VirtualAB>
+<support>1</support>
+<supportCowCompress>0</supportCowCompress>
+<ForceCowCompress>0</ForceCowCompress>
+<compressCowSize>0</compressCowSize>
+<cowsize>44048384</cowsize>
+<payloadOffset>907</payloadOffset>
+<fileHash>xCzzkUILTE9vSCnE+P+jBhEEuBlJenOGpi8aBlxiZ0A=</fileHash>
+<fileSize>31630</fileSize>
+<metadataHash>RdFPfpuGZo+fZjg/nDG25TmV/GgZi499EJ6jnKg70Ag=</metadataHash>
+<metadataSize>1141</metadataSize>
+<powerWash>0</powerWash>
+<switchSlotOnReboot>1</switchSlotOnReboot>
+<runPostInstall>1</runPostInstall>
+</VirtualAB>
+<vendorInfo name="cust" package="update_cust_AAK-AN00_all_cn.zip" precut_size="0" subpath=""/>
+<files>
+<file>
+<spath>update_cust_AAK-AN00_all_cn.zip</spath>
+<dpath>update_cust_AAK-AN00_all_cn.zip</dpath>
+<operation>c</operation>
+<sha256>E0492AC0663B6408CBBA7801C9381142389CDD2B5628D333EA1FB1F325C6442E</sha256>
+<size>38931</size>
+</file>
+</files>
+</root>

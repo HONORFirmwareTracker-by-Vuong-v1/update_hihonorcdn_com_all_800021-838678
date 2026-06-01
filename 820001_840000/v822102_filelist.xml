@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+<component>
+<name>TCPU</name>
+<compress>0</compress>
+</component>
+<maxStashInfo>52428800</maxStashInfo>
+<supportPKI>1</supportPKI>
+<packageType>full</packageType>
+<packageSolution>cust</packageSolution>
+<VirtualAB>
+<support>1</support>
+<supportCowCompress>0</supportCowCompress>
+<ForceCowCompress>0</ForceCowCompress>
+<compressCowSize>0</compressCowSize>
+<cowsize>1913724928</cowsize>
+<payloadOffset>799</payloadOffset>
+<fileHash>s4eKEQFsq0FtrYOnDhSaa+PJr9tCnKR7b1KWthvN5X4=</fileHash>
+<fileSize>182691006</fileSize>
+<metadataHash>i9+Lvtprg+2sv1Yx/JSo52nmWmbD4a4AUPlU6Vh1uKg=</metadataHash>
+<metadataSize>49259</metadataSize>
+<powerWash>0</powerWash>
+<switchSlotOnReboot>1</switchSlotOnReboot>
+<runPostInstall>1</runPostInstall>
+</VirtualAB>
+<vendorInfo name="cust" package="update_full_cust_BKQ-N49_opr_eea.zip" precut_size="0" subpath=""/>
+<files>
+<file>
+<spath>update_full_cust_BKQ-N49_opr_eea.zip</spath>
+<dpath>update_full_cust_BKQ-N49_opr_eea.zip</dpath>
+<operation>c</operation>
+<sha256>01C2BDE8EBC376477BD28B37AF2C8DEE6FB71CE48477FFFE9B450E8E73833A13</sha256>
+<size>182698190</size>
+</file>
+</files>
+</root>

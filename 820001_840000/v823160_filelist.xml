@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+<component>
+<name>TCPU</name>
+<compress>0</compress>
+</component>
+<maxStashInfo>52428800</maxStashInfo>
+<supportPKI>1</supportPKI>
+<packageType>full</packageType>
+<packageSolution>cust</packageSolution>
+<VirtualAB>
+<support>1</support>
+<supportCowCompress>0</supportCowCompress>
+<ForceCowCompress>0</ForceCowCompress>
+<compressCowSize>0</compressCowSize>
+<cowsize>616833024</cowsize>
+<payloadOffset>783</payloadOffset>
+<fileHash>NTipkJW3zyOXEorbuo4vStlkfNVVpcpb/qq6SbP8gvk=</fileHash>
+<fileSize>4285895</fileSize>
+<metadataHash>G+Ja3fXSvbCUaEWuirfVflVuHglAoHWYSbhf+orCDJI=</metadataHash>
+<metadataSize>15770</metadataSize>
+<powerWash>0</powerWash>
+<switchSlotOnReboot>1</switchSlotOnReboot>
+<runPostInstall>1</runPostInstall>
+</VirtualAB>
+<vendorInfo name="cust" package="update_full_cust_ALT-N21_opr_spcseas.zip" precut_size="0" subpath=""/>
+<files>
+<file>
+<spath>update_full_cust_ALT-N21_opr_spcseas.zip</spath>
+<dpath>update_full_cust_ALT-N21_opr_spcseas.zip</dpath>
+<operation>c</operation>
+<sha256>F612CBB178290F8995DE1DF68CB6B8A3509030332CFC4FBD36F7DB8F659D18A8</sha256>
+<size>4293078</size>
+</file>
+</files>
+</root>

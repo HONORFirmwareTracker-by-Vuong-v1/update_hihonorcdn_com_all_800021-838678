@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+<component>
+<name>TCPU</name>
+<compress>0</compress>
+</component>
+<maxStashInfo>52428800</maxStashInfo>
+<supportPKI>1</supportPKI>
+<packageType>increment</packageType>
+<packageSolution>cust</packageSolution>
+<VirtualAB>
+<support>1</support>
+<supportCowCompress>0</supportCowCompress>
+<ForceCowCompress>0</ForceCowCompress>
+<compressCowSize>0</compressCowSize>
+<cowsize>44167168</cowsize>
+<payloadOffset>899</payloadOffset>
+<fileHash>JMca9e7n3Db/3AHaeCYHZuIWmMymx6C2+TXcd10K3oM=</fileHash>
+<fileSize>4083</fileSize>
+<metadataHash>FBn9g6eaBSaZXYHbvvgxT+gtoAv1+jMtysX/jFQ7B+k=</metadataHash>
+<metadataSize>783</metadataSize>
+<powerWash>0</powerWash>
+<switchSlotOnReboot>1</switchSlotOnReboot>
+<runPostInstall>1</runPostInstall>
+</VirtualAB>
+<vendorInfo name="cust" package="update_cust_ROD2-W09S_def_meafnaf.zip" precut_size="0" subpath=""/>
+<files>
+<file>
+<spath>update_cust_ROD2-W09S_def_meafnaf.zip</spath>
+<dpath>update_cust_ROD2-W09S_def_meafnaf.zip</dpath>
+<operation>c</operation>
+<sha256>E6B0EB05A267E0FA9624B99FE55D7D7701B17D659FDA23826AF8BE52997EAEC7</sha256>
+<size>11371</size>
+</file>
+</files>
+</root>

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+<component>
+<name>TCPU</name>
+<compress>0</compress>
+</component>
+<maxStashInfo>52428800</maxStashInfo>
+<supportPKI>1</supportPKI>
+<packageType>increment</packageType>
+<packageSolution>cust</packageSolution>
+<VirtualAB>
+<support>1</support>
+<supportCowCompress>0</supportCowCompress>
+<ForceCowCompress>0</ForceCowCompress>
+<compressCowSize>0</compressCowSize>
+<cowsize>17257472000</cowsize>
+<payloadOffset>949</payloadOffset>
+<fileHash>U1rhOO+8rETg4Wkmbd0QqrRDiWYedGguEQVQb1xlZnY=</fileHash>
+<fileSize>1170067458</fileSize>
+<metadataHash>HYUuz3iZP21t3ayejl/5q8sCYo4NqCeLecf93VfBLWQ=</metadataHash>
+<metadataSize>282114</metadataSize>
+<powerWash>0</powerWash>
+<switchSlotOnReboot>1</switchSlotOnReboot>
+<runPostInstall>1</runPostInstall>
+</VirtualAB>
+<vendorInfo name="cust" package="update_cust_VKJ-AN90_demo_cn.zip" precut_size="0" subpath=""/>
+<files>
+<file>
+<spath>update_cust_VKJ-AN90_demo_cn.zip</spath>
+<dpath>update_cust_VKJ-AN90_demo_cn.zip</dpath>
+<operation>c</operation>
+<sha256>EC8724C48DA193F36F10CFAA746B153CE1197282340B1F9402889BC30325E293</sha256>
+<size>1170074810</size>
+</file>
+</files>
+</root>

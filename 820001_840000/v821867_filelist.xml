@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+<component>
+<name>TCPU</name>
+<compress>0</compress>
+</component>
+<maxStashInfo>52428800</maxStashInfo>
+<supportPKI>1</supportPKI>
+<packageType>increment</packageType>
+<packageSolution>cust</packageSolution>
+<VirtualAB>
+<support>1</support>
+<supportCowCompress>0</supportCowCompress>
+<ForceCowCompress>0</ForceCowCompress>
+<compressCowSize>0</compressCowSize>
+<cowsize>8633982976</cowsize>
+<payloadOffset>940</payloadOffset>
+<fileHash>7B5FM3l0Xy5b3XNLuzyZAc8BwBidu5atN6y//OaI1vw=</fileHash>
+<fileSize>588186619</fileSize>
+<metadataHash>w0XcV7dswbK/jlXP0FpefRvx3GjVUs1CZDfx9b6Ug0Q=</metadataHash>
+<metadataSize>62600</metadataSize>
+<powerWash>0</powerWash>
+<switchSlotOnReboot>1</switchSlotOnReboot>
+<runPostInstall>1</runPostInstall>
+</VirtualAB>
+<vendorInfo name="cust" package="update_cust_HEY4-W10_demo_cn.zip" precut_size="0" subpath=""/>
+<files>
+<file>
+<spath>update_cust_HEY4-W10_demo_cn.zip</spath>
+<dpath>update_cust_HEY4-W10_demo_cn.zip</dpath>
+<operation>c</operation>
+<sha256>747138C665655950CD502347DB3E502CF715A3EBBC9AD464985774DDB46D2DBE</sha256>
+<size>588193955</size>
+</file>
+</files>
+</root>

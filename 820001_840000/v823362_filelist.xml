@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+<component>
+<name>TCPU</name>
+<compress>0</compress>
+</component>
+<maxStashInfo>52428800</maxStashInfo>
+<supportPKI>1</supportPKI>
+<packageType>increment</packageType>
+<packageSolution>preload</packageSolution>
+<VirtualAB>
+<support>1</support>
+<supportCowCompress>1</supportCowCompress>
+<ForceCowCompress>1</ForceCowCompress>
+<compressCowSize>483906450</compressCowSize>
+<cowsize>2267414528</cowsize>
+<payloadOffset>940</payloadOffset>
+<fileHash>Nq+khe6w4GwKcmm52I751D/vC5znFFvVREnBmPOoXyo=</fileHash>
+<fileSize>418742462</fileSize>
+<metadataHash>kBDG/THfl1cW8ktMuZwWFBPuq+ZFWrxm2WOVGiMY0Tg=</metadataHash>
+<metadataSize>97139</metadataSize>
+<powerWash>0</powerWash>
+<switchSlotOnReboot>1</switchSlotOnReboot>
+<runPostInstall>1</runPostInstall>
+</VirtualAB>
+<vendorInfo name="preload" package="update_preload_MEP-AN00_all_cn_R403.zip" precut_size="0" subpath=""/>
+<files>
+<file>
+<spath>update_preload_MEP-AN00_all_cn_R403.zip</spath>
+<dpath>update_preload_MEP-AN00_all_cn_R403.zip</dpath>
+<operation>c</operation>
+<sha256>25C221C3A8001FE325BA2A585CC9084C629D02BEE4A6FC833222A86792905D4B</sha256>
+<size>418749810</size>
+</file>
+</files>
+</root>

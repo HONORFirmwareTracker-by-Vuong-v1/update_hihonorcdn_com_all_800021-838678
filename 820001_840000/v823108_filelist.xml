@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+<component>
+<name>TCPU</name>
+<compress>0</compress>
+</component>
+<maxStashInfo>52428800</maxStashInfo>
+<supportPKI>1</supportPKI>
+<packageType>full</packageType>
+<packageSolution>cust</packageSolution>
+<VirtualAB>
+<support>1</support>
+<supportCowCompress>0</supportCowCompress>
+<ForceCowCompress>0</ForceCowCompress>
+<compressCowSize>0</compressCowSize>
+<cowsize>616833024</cowsize>
+<payloadOffset>799</payloadOffset>
+<fileHash>GTNW3T+KhC8V92NJnWFkXj08yawuCqNBQ1N235NL2VU=</fileHash>
+<fileSize>197902113</fileSize>
+<metadataHash>ka/SCezRQgd31b/FLiw8o/0vj3+lR+rIb1lzoX/NwFU=</metadataHash>
+<metadataSize>16011</metadataSize>
+<powerWash>0</powerWash>
+<switchSlotOnReboot>1</switchSlotOnReboot>
+<runPostInstall>1</runPostInstall>
+</VirtualAB>
+<vendorInfo name="cust" package="update_full_cust_VKP-N39_opr_meafnaf.zip" precut_size="0" subpath=""/>
+<files>
+<file>
+<spath>update_full_cust_VKP-N39_opr_meafnaf.zip</spath>
+<dpath>update_full_cust_VKP-N39_opr_meafnaf.zip</dpath>
+<operation>c</operation>
+<sha256>412DF26329846C14E6727EE9AA3A8889544322DAD7A8468607608A66305AF3F1</sha256>
+<size>197909305</size>
+</file>
+</files>
+</root>

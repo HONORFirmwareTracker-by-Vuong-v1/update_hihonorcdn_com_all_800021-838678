@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+<component>
+<name>TCPU</name>
+<compress>0</compress>
+</component>
+<maxStashInfo>52428800</maxStashInfo>
+<supportPKI>1</supportPKI>
+<packageType>increment</packageType>
+<packageSolution>cust</packageSolution>
+<VirtualAB>
+<support>1</support>
+<supportCowCompress>0</supportCowCompress>
+<ForceCowCompress>0</ForceCowCompress>
+<compressCowSize>0</compressCowSize>
+<cowsize>44048384</cowsize>
+<payloadOffset>898</payloadOffset>
+<fileHash>hcTdBgBVFdcomIV3jZ9Dry0G4iOD04v9WZeOOiSvYZk=</fileHash>
+<fileSize>4044</fileSize>
+<metadataHash>BfvU1rtwltCk/LwyEIpiRQCkWU+UY92fdba70n74hiQ=</metadataHash>
+<metadataSize>684</metadataSize>
+<powerWash>0</powerWash>
+<switchSlotOnReboot>1</switchSlotOnReboot>
+<runPostInstall>1</runPostInstall>
+</VirtualAB>
+<vendorInfo name="cust" package="update_cust_WDY-AN60_all_cn.zip" precut_size="0" subpath=""/>
+<files>
+<file>
+<spath>update_cust_WDY-AN60_all_cn.zip</spath>
+<dpath>update_cust_WDY-AN60_all_cn.zip</dpath>
+<operation>c</operation>
+<sha256>56A9680B67AA0B13D8D4994AAFFBCA9139802FFE45D0732E6D091D474D2604A7</sha256>
+<size>11350</size>
+</file>
+</files>
+</root>

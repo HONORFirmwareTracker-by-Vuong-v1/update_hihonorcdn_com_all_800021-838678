@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+<component>
+<name>TCPU</name>
+<compress>0</compress>
+</component>
+<maxStashInfo>52428800</maxStashInfo>
+<supportPKI>1</supportPKI>
+<packageType>increment</packageType>
+<packageSolution>cust</packageSolution>
+<VirtualAB>
+<support>1</support>
+<cowsize>43806720</cowsize>
+<payloadOffset>841</payloadOffset>
+<fileHash>54y8K8zn8T0rNijEFMV4j2h/JPT8BUMa6VJWaR1g9ew=</fileHash>
+<fileSize>3952</fileSize>
+<metadataHash>lPZXF33vxYs+xZ90i4OginhNSsr9nZz4tEmromeohCI=</metadataHash>
+<metadataSize>1487</metadataSize>
+<powerWash>0</powerWash>
+<switchSlotOnReboot>1</switchSlotOnReboot>
+<runPostInstall>1</runPostInstall>
+</VirtualAB>
+<preAdjustFeature>false</preAdjustFeature>
+<vendorInfo name="cust" package="update_cust_KRJ2-W09_all_cn.zip" precut_size="0" subpath=""/>
+<GROUP version="NA"/>
+<GBC version="NA"/>
+<files>
+<file>
+<spath>update_cust_KRJ2-W09_all_cn.zip</spath>
+<dpath>update_cust_KRJ2-W09_all_cn.zip</dpath>
+<operation>c</operation>
+<sha256>080AD693D118E73C5D657DE7DF4266D8823CF2B73B7C60788D52874F59566BA1</sha256>
+<size>11187</size>
+</file>
+</files>
+</root>

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+<component>
+<name>TCPU</name>
+<compress>0</compress>
+</component>
+<maxStashInfo>52428800</maxStashInfo>
+<supportPKI>1</supportPKI>
+<packageType>increment</packageType>
+<packageSolution>cust</packageSolution>
+<VirtualAB>
+<support>1</support>
+<supportCowCompress>0</supportCowCompress>
+<ForceCowCompress>0</ForceCowCompress>
+<compressCowSize>0</compressCowSize>
+<cowsize>43945984</cowsize>
+<payloadOffset>899</payloadOffset>
+<fileHash>eM7ITK5nmnf7uXOIXMiTI7olJqM+4IVubilRTBgbWgM=</fileHash>
+<fileSize>5086</fileSize>
+<metadataHash>0GwTe5jPD0KW7YCVT+Z/0yHvr7x4+WCRT2L8ZO9SeTQ=</metadataHash>
+<metadataSize>1079</metadataSize>
+<powerWash>0</powerWash>
+<switchSlotOnReboot>1</switchSlotOnReboot>
+<runPostInstall>1</runPostInstall>
+</VirtualAB>
+<vendorInfo name="cust" package="update_cust_LDY-AN00_all_cn.zip" precut_size="0" subpath=""/>
+<files>
+<file>
+<spath>update_cust_LDY-AN00_all_cn.zip</spath>
+<dpath>update_cust_LDY-AN00_all_cn.zip</dpath>
+<operation>c</operation>
+<sha256>465266B3DD05AA6873DFFD58B350AFD9B3EE1A8CAD8FC9384E0C38977914B9EB</sha256>
+<size>12381</size>
+</file>
+</files>
+</root>
