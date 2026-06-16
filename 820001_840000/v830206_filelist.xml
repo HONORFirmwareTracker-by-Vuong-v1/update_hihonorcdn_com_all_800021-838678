@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+<component>
+<name>TCPU</name>
+<compress>0</compress>
+</component>
+<maxStashInfo>52428800</maxStashInfo>
+<supportPKI>1</supportPKI>
+<packageType>increment</packageType>
+<packageSolution>cust</packageSolution>
+<VirtualAB>
+<support>1</support>
+<supportCowCompress>0</supportCowCompress>
+<ForceCowCompress>0</ForceCowCompress>
+<compressCowSize>0</compressCowSize>
+<cowsize>41336832</cowsize>
+<payloadOffset>899</payloadOffset>
+<fileHash>/+jaL85pq+227+jfmeWf0hopS+XOQ2g2K3oX454LMho=</fileHash>
+<fileSize>4436</fileSize>
+<metadataHash>dcrknYce6Kg7Jb5bRfHh5v2HKtHcoKEjI8pBbw2NbMY=</metadataHash>
+<metadataSize>1007</metadataSize>
+<powerWash>0</powerWash>
+<switchSlotOnReboot>1</switchSlotOnReboot>
+<runPostInstall>1</runPostInstall>
+</VirtualAB>
+<vendorInfo name="cust" package="update_cust_NLA-L31_def_la.zip" precut_size="0" subpath=""/>
+<files>
+<file>
+<spath>update_cust_NLA-L31_def_la.zip</spath>
+<dpath>update_cust_NLA-L31_def_la.zip</dpath>
+<operation>c</operation>
+<sha256>9CFBE5989B4D6CB1D216EF1C29A00C9CC60BE431150A9E41CC5AA86B1BCAA743</sha256>
+<size>11728</size>
+</file>
+</files>
+</root>

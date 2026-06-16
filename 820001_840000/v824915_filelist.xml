@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+<component>
+<name>TCPU</name>
+<compress>0</compress>
+</component>
+<maxStashInfo>52428800</maxStashInfo>
+<supportPKI>1</supportPKI>
+<packageType>increment</packageType>
+<packageSolution>cust</packageSolution>
+<VirtualAB>
+<support>1</support>
+<supportCowCompress>0</supportCowCompress>
+<ForceCowCompress>0</ForceCowCompress>
+<compressCowSize>0</compressCowSize>
+<cowsize>44064768</cowsize>
+<payloadOffset>907</payloadOffset>
+<fileHash>Co+7/VgVyJL7LUx3D7egI3F5q9zOYddQxlR92b+UbFk=</fileHash>
+<fileSize>36113</fileSize>
+<metadataHash>OZcXA4437HMXbkFicyW+2IYgFdWITNHx6WtNgTsGaMQ=</metadataHash>
+<metadataSize>2156</metadataSize>
+<powerWash>0</powerWash>
+<switchSlotOnReboot>1</switchSlotOnReboot>
+<runPostInstall>1</runPostInstall>
+</VirtualAB>
+<vendorInfo name="cust" package="update_cust_.zip" precut_size="0" subpath=""/>
+<files>
+<file>
+<spath>update_cust_.zip</spath>
+<dpath>update_cust_.zip</dpath>
+<operation>c</operation>
+<sha256>B60EDEF3B316A8F1FC23AE0B8D965B405E9987500321DDA54CBBB2F478E82D6C</sha256>
+<size>43414</size>
+</file>
+</files>
+</root>

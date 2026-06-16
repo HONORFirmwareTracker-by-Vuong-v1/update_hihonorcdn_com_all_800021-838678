@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+<component>
+<name>TCPU</name>
+<compress>0</compress>
+</component>
+<maxStashInfo>52428800</maxStashInfo>
+<supportPKI>1</supportPKI>
+<packageType>full</packageType>
+<packageSolution>cust</packageSolution>
+<VirtualAB>
+<support>1</support>
+<supportCowCompress>0</supportCowCompress>
+<ForceCowCompress>0</ForceCowCompress>
+<compressCowSize>0</compressCowSize>
+<cowsize>8633982976</cowsize>
+<payloadOffset>800</payloadOffset>
+<fileHash>1bEmIGO1tAAHQTbEca8Q6Ph4TiyHJDwi543+2U81CTE=</fileHash>
+<fileSize>234038975</fileSize>
+<metadataHash>kSO0H1CuIR3NPrlMWcHpa2i5wSc2oxwzAFxRWmh+e1g=</metadataHash>
+<metadataSize>221685</metadataSize>
+<powerWash>0</powerWash>
+<switchSlotOnReboot>1</switchSlotOnReboot>
+<runPostInstall>1</runPostInstall>
+</VirtualAB>
+<vendorInfo name="cust" package="update_full_cust_MRK-N31S_demo_normal.zip" precut_size="0" subpath=""/>
+<files>
+<file>
+<spath>update_full_cust_MRK-N31S_demo_normal.zip</spath>
+<dpath>update_full_cust_MRK-N31S_demo_normal.zip</dpath>
+<operation>c</operation>
+<sha256>34738DA11FBD01C0F065644FB1F11E558E7739ED8285DA1013859CE4CFBDFF7A</sha256>
+<size>234046176</size>
+</file>
+</files>
+</root>

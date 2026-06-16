@@ -1,0 +1,14 @@
+<root>
+	<packageName>com.hihonor.wallpapereditor</packageName>
+	<pluginName>ThemeEditorGoodsPlugin</pluginName>
+	<versionCode>110009002</versionCode>
+	<packageType>increment</packageType>
+	<files>
+		<file>
+			<spath>update_plugin.zip</spath>
+			<dpath>update_plugin.zip</dpath>
+			<sha256>b1683a60f634c825f24c9b57673d5f44fe3b52607d9cbdc7e0179269c9b4fe04</sha256>
+			<size>5352583</size>
+		</file>
+	</files>
+</root>

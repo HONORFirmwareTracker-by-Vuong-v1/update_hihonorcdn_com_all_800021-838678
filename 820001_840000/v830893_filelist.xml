@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+<component>
+<name>TCPU</name>
+<compress>0</compress>
+</component>
+<maxStashInfo>52428800</maxStashInfo>
+<supportPKI>1</supportPKI>
+<packageType>full</packageType>
+<packageSolution>preload</packageSolution>
+<VirtualAB>
+<support>1</support>
+<supportCowCompress>0</supportCowCompress>
+<ForceCowCompress>0</ForceCowCompress>
+<compressCowSize>0</compressCowSize>
+<cowsize>2275844096</cowsize>
+<payloadOffset>807</payloadOffset>
+<fileHash>sEZR+a3IHjshe3b6Syq94+iYov88/+KnVF/sx7jNHyc=</fileHash>
+<fileSize>1698838744</fileSize>
+<metadataHash>K8LkbUFG+Ggi0lLfjLgKx3vTnV0W41weW7w+vfM9fm0=</metadataHash>
+<metadataSize>61181</metadataSize>
+<powerWash>0</powerWash>
+<switchSlotOnReboot>1</switchSlotOnReboot>
+<runPostInstall>1</runPostInstall>
+</VirtualAB>
+<vendorInfo name="preload" package="update_full_preload_NLA-AL10S_all_cn_R103.zip" precut_size="0" subpath=""/>
+<files>
+<file>
+<spath>update_full_preload_NLA-AL10S_all_cn_R103.zip</spath>
+<dpath>update_full_preload_NLA-AL10S_all_cn_R103.zip</dpath>
+<operation>c</operation>
+<sha256>8E69265D6AF63D4F2D5912997564133676C82F1CA63F79E944274A8E91093378</sha256>
+<size>1698845967</size>
+</file>
+</files>
+</root>

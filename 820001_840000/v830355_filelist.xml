@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+<component>
+<name>TCPU</name>
+<compress>0</compress>
+</component>
+<maxStashInfo>52428800</maxStashInfo>
+<supportPKI>1</supportPKI>
+<packageType>full</packageType>
+<packageSolution>preload</packageSolution>
+<VirtualAB>
+<support>1</support>
+<supportCowCompress>0</supportCowCompress>
+<ForceCowCompress>0</ForceCowCompress>
+<compressCowSize>0</compressCowSize>
+<cowsize>2166366208</cowsize>
+<payloadOffset>807</payloadOffset>
+<fileHash>s7LBH3BkWRBLW+QUX6AhIC62OBC4Eqk7XSDT5YUZcpg=</fileHash>
+<fileSize>1376067010</fileSize>
+<metadataHash>mS+W1Vjk5H9yOLg+sI04qELmdCa5Emv4k6dFn9UjWBI=</metadataHash>
+<metadataSize>57979</metadataSize>
+<powerWash>0</powerWash>
+<switchSlotOnReboot>1</switchSlotOnReboot>
+<runPostInstall>1</runPostInstall>
+</VirtualAB>
+<vendorInfo name="preload" package="update_full_preload_NAA-L32P_def_meafnaf_R701.zip" precut_size="0" subpath=""/>
+<files>
+<file>
+<spath>update_full_preload_NAA-L32P_def_meafnaf_R701.zip</spath>
+<dpath>update_full_preload_NAA-L32P_def_meafnaf_R701.zip</dpath>
+<operation>c</operation>
+<sha256>E966E207E5B05EB105ECFE8F3A191A34CCCE26931F746359D07D49BE1E96D500</sha256>
+<size>1376074232</size>
+</file>
+</files>
+</root>

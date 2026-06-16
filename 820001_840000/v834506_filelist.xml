@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+<component>
+<name>TCPU</name>
+<compress>0</compress>
+</component>
+<maxStashInfo>52428800</maxStashInfo>
+<supportPKI>1</supportPKI>
+<packageType>increment</packageType>
+<packageSolution>cust</packageSolution>
+<VirtualAB>
+<support>1</support>
+<supportCowCompress>0</supportCowCompress>
+<ForceCowCompress>0</ForceCowCompress>
+<compressCowSize>0</compressCowSize>
+<cowsize>44167168</cowsize>
+<payloadOffset>899</payloadOffset>
+<fileHash>IEodrB2CZHRejnXNOcKMhzmRxE3IbS9yYt8mxvlYvg0=</fileHash>
+<fileSize>4084</fileSize>
+<metadataHash>EpBrsqvL6/bv3eom+aaTQISujcEW19FXlOs9CpbTb3s=</metadataHash>
+<metadataSize>783</metadataSize>
+<powerWash>0</powerWash>
+<switchSlotOnReboot>1</switchSlotOnReboot>
+<runPostInstall>1</runPostInstall>
+</VirtualAB>
+<vendorInfo name="cust" package="update_cust_ROL-W09_def_meafnaf.zip" precut_size="0" subpath=""/>
+<files>
+<file>
+<spath>update_cust_ROL-W09_def_meafnaf.zip</spath>
+<dpath>update_cust_ROL-W09_def_meafnaf.zip</dpath>
+<operation>c</operation>
+<sha256>114B0966B4356841B7283E6BC08D544E76C1F32287278E68D528B0D7D873FEF7</sha256>
+<size>11373</size>
+</file>
+</files>
+</root>

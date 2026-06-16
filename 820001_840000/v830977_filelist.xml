@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+<component>
+<name>TCPU</name>
+<compress>0</compress>
+</component>
+<maxStashInfo>52428800</maxStashInfo>
+<supportPKI>1</supportPKI>
+<packageType>increment</packageType>
+<packageSolution>cust</packageSolution>
+<VirtualAB>
+<support>1</support>
+<supportCowCompress>0</supportCowCompress>
+<ForceCowCompress>0</ForceCowCompress>
+<compressCowSize>0</compressCowSize>
+<cowsize>44179456</cowsize>
+<payloadOffset>907</payloadOffset>
+<fileHash>eDItklCQ2ooofg1w5KsBcEHWUwvOk5/iPObIfw+xXro=</fileHash>
+<fileSize>68237</fileSize>
+<metadataHash>qaINGbdTMNeZvCL5N9DSHLyqh5QqhvJIyAj47Ho7BR4=</metadataHash>
+<metadataSize>1090</metadataSize>
+<powerWash>0</powerWash>
+<switchSlotOnReboot>1</switchSlotOnReboot>
+<runPostInstall>1</runPostInstall>
+</VirtualAB>
+<vendorInfo name="cust" package="update_cust_YLP-W00_all_cn.zip" precut_size="0" subpath=""/>
+<files>
+<file>
+<spath>update_cust_YLP-W00_all_cn.zip</spath>
+<dpath>update_cust_YLP-W00_all_cn.zip</dpath>
+<operation>c</operation>
+<sha256>05C28E46A43CA7259F513FC3D5D48813509F0962A5EF1641D9A295ABB231D508</sha256>
+<size>75532</size>
+</file>
+</files>
+</root>

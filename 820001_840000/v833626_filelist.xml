@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+<component>
+<name>TCPU</name>
+<compress>0</compress>
+</component>
+<maxStashInfo>52428800</maxStashInfo>
+<supportPKI>1</supportPKI>
+<packageType>full</packageType>
+<packageSolution>cust</packageSolution>
+<VirtualAB>
+<support>1</support>
+<supportCowCompress>0</supportCowCompress>
+<ForceCowCompress>0</ForceCowCompress>
+<compressCowSize>0</compressCowSize>
+<cowsize>44179456</cowsize>
+<payloadOffset>782</payloadOffset>
+<fileHash>5f22Y3fIYyJbZOQ4OeX3icgzsfprTHbblVCoM+sOdJo=</fileHash>
+<fileSize>2244805</fileSize>
+<metadataHash>MFfhaMrGT2d14hip8gUH8vTgkgvtwidyKi9O8T5JWdI=</metadataHash>
+<metadataSize>1094</metadataSize>
+<powerWash>0</powerWash>
+<switchSlotOnReboot>1</switchSlotOnReboot>
+<runPostInstall>1</runPostInstall>
+</VirtualAB>
+<vendorInfo name="cust" package="update_full_cust_LGN-L42_def_spcseas.zip" precut_size="0" subpath=""/>
+<files>
+<file>
+<spath>update_full_cust_LGN-L42_def_spcseas.zip</spath>
+<dpath>update_full_cust_LGN-L42_def_spcseas.zip</dpath>
+<operation>c</operation>
+<sha256>4A21C26BB27ABF26B8D5CE58AF79C49327D5668BC3DBFE8CE926030524949268</sha256>
+<size>2251980</size>
+</file>
+</files>
+</root>

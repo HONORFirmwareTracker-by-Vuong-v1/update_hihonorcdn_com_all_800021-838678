@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+<component>
+<name>TCPU</name>
+<compress>0</compress>
+</component>
+<maxStashInfo>52428800</maxStashInfo>
+<supportPKI>1</supportPKI>
+<packageType>full</packageType>
+<packageSolution>cust</packageSolution>
+<VirtualAB>
+<support>1</support>
+<supportCowCompress>0</supportCowCompress>
+<ForceCowCompress>0</ForceCowCompress>
+<compressCowSize>0</compressCowSize>
+<cowsize>616833024</cowsize>
+<payloadOffset>791</payloadOffset>
+<fileHash>SkFBg5NyrHyEBjENfgKUc6+IDkXH5pRqoYahSp/ZW0Q=</fileHash>
+<fileSize>29174194</fileSize>
+<metadataHash>Pj7gS2wmGwoNluK1Ik8Ih71op01LtDd1frmYYdSFaFs=</metadataHash>
+<metadataSize>15799</metadataSize>
+<powerWash>0</powerWash>
+<switchSlotOnReboot>1</switchSlotOnReboot>
+<runPostInstall>1</runPostInstall>
+</VirtualAB>
+<vendorInfo name="cust" package="update_full_cust_NIC-L42_channel_id.zip" precut_size="0" subpath=""/>
+<files>
+<file>
+<spath>update_full_cust_NIC-L42_channel_id.zip</spath>
+<dpath>update_full_cust_NIC-L42_channel_id.zip</dpath>
+<operation>c</operation>
+<sha256>91256565A671AC828BBDE74D71674410782151550F8802BB3FE5A82170B54EC4</sha256>
+<size>29181385</size>
+</file>
+</files>
+</root>

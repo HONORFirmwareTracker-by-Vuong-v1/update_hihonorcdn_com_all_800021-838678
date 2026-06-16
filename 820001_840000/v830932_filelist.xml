@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+<component>
+<name>TCPU</name>
+<compress>0</compress>
+</component>
+<maxStashInfo>52428800</maxStashInfo>
+<supportPKI>1</supportPKI>
+<packageType>full</packageType>
+<packageSolution>cust</packageSolution>
+<VirtualAB>
+<support>1</support>
+<supportCowCompress>0</supportCowCompress>
+<ForceCowCompress>0</ForceCowCompress>
+<compressCowSize>0</compressCowSize>
+<cowsize>616833024</cowsize>
+<payloadOffset>783</payloadOffset>
+<fileHash>TNSk8oOnvJxJrj9b6ItteBkJ9CwdrFCeRKHXtKNmr1w=</fileHash>
+<fileSize>2396346</fileSize>
+<metadataHash>7eScGXjAIK7w1+E56RlaEN/csf5TDDR5U6UL4YKgzjo=</metadataHash>
+<metadataSize>15768</metadataSize>
+<powerWash>0</powerWash>
+<switchSlotOnReboot>1</switchSlotOnReboot>
+<runPostInstall>1</runPostInstall>
+</VirtualAB>
+<vendorInfo name="cust" package="update_full_cust_LNA-N32_channel_zt.zip" precut_size="0" subpath=""/>
+<files>
+<file>
+<spath>update_full_cust_LNA-N32_channel_zt.zip</spath>
+<dpath>update_full_cust_LNA-N32_channel_zt.zip</dpath>
+<operation>c</operation>
+<sha256>29B53094BA017987124826B1B0CBB8A02C209D781D71371752B92B9E5EC82E55</sha256>
+<size>2403526</size>
+</file>
+</files>
+</root>

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+<component>
+<name>TCPU</name>
+<compress>0</compress>
+</component>
+<maxStashInfo>52428800</maxStashInfo>
+<supportPKI>1</supportPKI>
+<packageType>increment</packageType>
+<packageSolution>preload</packageSolution>
+<VirtualAB>
+<support>1</support>
+<supportCowCompress>0</supportCowCompress>
+<ForceCowCompress>0</ForceCowCompress>
+<compressCowSize>0</compressCowSize>
+<cowsize>642097152</cowsize>
+<payloadOffset>923</payloadOffset>
+<fileHash>SwFOuchMMEoS8rE7M9tnUIWSRWPSbVhtkkrM2n1Bfn4=</fileHash>
+<fileSize>4715439</fileSize>
+<metadataHash>kMQ539BWP9tPTmQ4cZi/Xiw2biwxvHDoeV53dc2jHec=</metadataHash>
+<metadataSize>5042</metadataSize>
+<powerWash>0</powerWash>
+<switchSlotOnReboot>1</switchSlotOnReboot>
+<runPostInstall>1</runPostInstall>
+</VirtualAB>
+<vendorInfo name="preload" package="update_preload_MRK-N31S_opr_eu_R101.zip" precut_size="0" subpath=""/>
+<files>
+<file>
+<spath>update_preload_MRK-N31S_opr_eu_R101.zip</spath>
+<dpath>update_preload_MRK-N31S_opr_eu_R101.zip</dpath>
+<operation>c</operation>
+<sha256>C1609B81AE79EC9504BED372DA01CEABAF4D4CA938BCBB29939BBB51D4B162F3</sha256>
+<size>4722768</size>
+</file>
+</files>
+</root>

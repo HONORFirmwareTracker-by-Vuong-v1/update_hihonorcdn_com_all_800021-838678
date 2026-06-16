@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+<component>
+<name>TCPU</name>
+<compress>0</compress>
+</component>
+<maxStashInfo>52428800</maxStashInfo>
+<supportPKI>1</supportPKI>
+<packageType>full</packageType>
+<packageSolution>preload</packageSolution>
+<VirtualAB>
+<support>1</support>
+<supportCowCompress>0</supportCowCompress>
+<ForceCowCompress>0</ForceCowCompress>
+<compressCowSize>0</compressCowSize>
+<cowsize>2166366208</cowsize>
+<payloadOffset>807</payloadOffset>
+<fileHash>H112R2PuOaSK12fTqIAr0TXg1CdnzYd7eKTzILmks44=</fileHash>
+<fileSize>1138287050</fileSize>
+<metadataHash>kPg1bBicmrXh6/6bPWmJ92KcCajkMcQIDY2xah8OYAQ=</metadataHash>
+<metadataSize>57705</metadataSize>
+<powerWash>0</powerWash>
+<switchSlotOnReboot>1</switchSlotOnReboot>
+<runPostInstall>1</runPostInstall>
+</VirtualAB>
+<vendorInfo name="preload" package="update_full_preload_LNA-N32_def_spcseas_R204.zip" precut_size="0" subpath=""/>
+<files>
+<file>
+<spath>update_full_preload_LNA-N32_def_spcseas_R204.zip</spath>
+<dpath>update_full_preload_LNA-N32_def_spcseas_R204.zip</dpath>
+<operation>c</operation>
+<sha256>9C31B4E39731527BD13C51CE5FB65BCBF13B2F1E03DB1ECCFB7FD25383D2D32E</sha256>
+<size>1138294267</size>
+</file>
+</files>
+</root>

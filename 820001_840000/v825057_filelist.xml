@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+<component>
+<name>TCPU</name>
+<compress>0</compress>
+</component>
+<maxStashInfo>52428800</maxStashInfo>
+<supportPKI>1</supportPKI>
+<packageType>full</packageType>
+<packageSolution>cust</packageSolution>
+<VirtualAB>
+<support>1</support>
+<supportCowCompress>0</supportCowCompress>
+<ForceCowCompress>0</ForceCowCompress>
+<compressCowSize>0</compressCowSize>
+<cowsize>44179456</cowsize>
+<payloadOffset>782</payloadOffset>
+<fileHash>wNTcl9eIOEZBWV9FLk4EY7zyoxar1toQk8B6fKK5Rdk=</fileHash>
+<fileSize>2244817</fileSize>
+<metadataHash>jZprizDl/xK68FiiOpnjuUIDCeBlS0navkRr6ZVrAFc=</metadataHash>
+<metadataSize>1094</metadataSize>
+<powerWash>0</powerWash>
+<switchSlotOnReboot>1</switchSlotOnReboot>
+<runPostInstall>1</runPostInstall>
+</VirtualAB>
+<vendorInfo name="cust" package="update_full_cust_NIC-L43_def_la.zip" precut_size="0" subpath=""/>
+<files>
+<file>
+<spath>update_full_cust_NIC-L43_def_la.zip</spath>
+<dpath>update_full_cust_NIC-L43_def_la.zip</dpath>
+<operation>c</operation>
+<sha256>5A50A1604B84EB28686BC4C7E3A7C3E3BF492781D97F4ADF24BD1B9AC2ED7EBB</sha256>
+<size>2251991</size>
+</file>
+</files>
+</root>

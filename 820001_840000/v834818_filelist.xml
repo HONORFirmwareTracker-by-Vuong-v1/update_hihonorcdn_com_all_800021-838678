@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+<component>
+<name>TCPU</name>
+<compress>0</compress>
+</component>
+<maxStashInfo>52428800</maxStashInfo>
+<supportPKI>1</supportPKI>
+<packageType>increment</packageType>
+<packageSolution>cust</packageSolution>
+<VirtualAB>
+<support>1</support>
+<supportCowCompress>0</supportCowCompress>
+<ForceCowCompress>0</ForceCowCompress>
+<compressCowSize>0</compressCowSize>
+<cowsize>3136401408</cowsize>
+<payloadOffset>924</payloadOffset>
+<fileHash>/gyCswIEkKR1m+GKkEGNMBWAycQwlH8kgbVNki6QvHQ=</fileHash>
+<fileSize>9462317</fileSize>
+<metadataHash>wtDwRUupMzYL8xVSQptcTgsXXa7gCxC0RCAc7E+/I28=</metadataHash>
+<metadataSize>27816</metadataSize>
+<powerWash>0</powerWash>
+<switchSlotOnReboot>1</switchSlotOnReboot>
+<runPostInstall>1</runPostInstall>
+</VirtualAB>
+<vendorInfo name="cust" package="update_cust_VKJ-N39_opr_eea.zip" precut_size="0" subpath=""/>
+<files>
+<file>
+<spath>update_cust_VKJ-N39_opr_eea.zip</spath>
+<dpath>update_cust_VKJ-N39_opr_eea.zip</dpath>
+<operation>c</operation>
+<sha256>4B891EF1482ABD45BC54988620737C0F2A37786A223612D80444E31C5F58A727</sha256>
+<size>9469638</size>
+</file>
+</files>
+</root>

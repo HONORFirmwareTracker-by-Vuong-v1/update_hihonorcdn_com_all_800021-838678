@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+<component>
+<name>TCPU</name>
+<compress>0</compress>
+</component>
+<maxStashInfo>52428800</maxStashInfo>
+<supportPKI>1</supportPKI>
+<packageType>full</packageType>
+<packageSolution>cust</packageSolution>
+<VirtualAB>
+<support>1</support>
+<supportCowCompress>0</supportCowCompress>
+<ForceCowCompress>0</ForceCowCompress>
+<compressCowSize>0</compressCowSize>
+<cowsize>616833024</cowsize>
+<payloadOffset>791</payloadOffset>
+<fileHash>U7UerYuyCG9XjfXh4DS4pREA/dVNECGNoPH7cZ1fOfk=</fileHash>
+<fileSize>29174210</fileSize>
+<metadataHash>dbqnOvrb0j7yVeXWxe3jz6k8h1Qu+uh5oH+SbZjWwKU=</metadataHash>
+<metadataSize>15799</metadataSize>
+<powerWash>0</powerWash>
+<switchSlotOnReboot>1</switchSlotOnReboot>
+<runPostInstall>1</runPostInstall>
+</VirtualAB>
+<vendorInfo name="cust" package="update_full_cust_LGN-L42_channel_id.zip" precut_size="0" subpath=""/>
+<files>
+<file>
+<spath>update_full_cust_LGN-L42_channel_id.zip</spath>
+<dpath>update_full_cust_LGN-L42_channel_id.zip</dpath>
+<operation>c</operation>
+<sha256>87657BE630E385CA2672998B5EFA76232B51C25C5F6423B435EC6ABC1F2C4ED1</sha256>
+<size>29181390</size>
+</file>
+</files>
+</root>

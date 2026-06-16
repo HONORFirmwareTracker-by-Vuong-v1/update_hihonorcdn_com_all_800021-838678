@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+<component>
+<name>TCPU</name>
+<compress>0</compress>
+</component>
+<maxStashInfo>52428800</maxStashInfo>
+<supportPKI>1</supportPKI>
+<packageType>increment</packageType>
+<packageSolution>cust</packageSolution>
+<VirtualAB>
+<support>1</support>
+<supportCowCompress>0</supportCowCompress>
+<ForceCowCompress>0</ForceCowCompress>
+<compressCowSize>0</compressCowSize>
+<cowsize>616833024</cowsize>
+<payloadOffset>931</payloadOffset>
+<fileHash>8LF5OH5t9jKUKvXNyTcSw2x5iSQ63EL/M0grgOzHujc=</fileHash>
+<fileSize>26813357</fileSize>
+<metadataHash>1Sk7jV7hsXBIrIjfqZtxt36/YYy+udBPqZSBaYiXDqE=</metadataHash>
+<metadataSize>4361</metadataSize>
+<powerWash>0</powerWash>
+<switchSlotOnReboot>1</switchSlotOnReboot>
+<runPostInstall>1</runPostInstall>
+</VirtualAB>
+<vendorInfo name="cust" package="update_cust_ABR-N31_channel_id.zip" precut_size="0" subpath=""/>
+<files>
+<file>
+<spath>update_cust_ABR-N31_channel_id.zip</spath>
+<dpath>update_cust_ABR-N31_channel_id.zip</dpath>
+<operation>c</operation>
+<sha256>7CE78D290CE9A4058A3170BDA4F5F244CB0F7694C809295900C96BAECE714104</sha256>
+<size>26820684</size>
+</file>
+</files>
+</root>

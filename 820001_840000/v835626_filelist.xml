@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+<component>
+<name>TCPU</name>
+<compress>0</compress>
+</component>
+<maxStashInfo>52428800</maxStashInfo>
+<supportPKI>1</supportPKI>
+<packageType>increment</packageType>
+<packageSolution>preload</packageSolution>
+<VirtualAB>
+<support>1</support>
+<supportCowCompress>0</supportCowCompress>
+<ForceCowCompress>0</ForceCowCompress>
+<compressCowSize>0</compressCowSize>
+<cowsize>2070228992</cowsize>
+<payloadOffset>940</payloadOffset>
+<fileHash>PhwHBLSnxRooF4ub3F5r0hc79gmToUQckpB+9PwBovQ=</fileHash>
+<fileSize>156130348</fileSize>
+<metadataHash>b6p3okzLPZF92dfZkk0D26qnjMMZR1PqgRvw2FGff10=</metadataHash>
+<metadataSize>40145</metadataSize>
+<powerWash>0</powerWash>
+<switchSlotOnReboot>1</switchSlotOnReboot>
+<runPostInstall>1</runPostInstall>
+</VirtualAB>
+<vendorInfo name="preload" package="update_preload_VKJ-N39_def_eea_R203.zip" precut_size="0" subpath=""/>
+<files>
+<file>
+<spath>update_preload_VKJ-N39_def_eea_R203.zip</spath>
+<dpath>update_preload_VKJ-N39_def_eea_R203.zip</dpath>
+<operation>c</operation>
+<sha256>6E34FAEEA3BFB0D34380AAE81957BBC64FDC0BA3D538F1DDF6317C6B700B2BF0</sha256>
+<size>156137699</size>
+</file>
+</files>
+</root>

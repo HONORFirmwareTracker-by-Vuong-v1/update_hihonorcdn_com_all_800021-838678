@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+<component>
+<name>TCPU</name>
+<compress>0</compress>
+</component>
+<maxStashInfo>52428800</maxStashInfo>
+<supportPKI>1</supportPKI>
+<packageType>increment</packageType>
+<packageSolution>preload</packageSolution>
+<VirtualAB>
+<support>1</support>
+<supportCowCompress>0</supportCowCompress>
+<ForceCowCompress>0</ForceCowCompress>
+<compressCowSize>0</compressCowSize>
+<cowsize>3589578752</cowsize>
+<payloadOffset>940</payloadOffset>
+<fileHash>9P8c2EJCi2N3nYHnllGFXXyifoVqC43kfqeC+9m0V30=</fileHash>
+<fileSize>268250492</fileSize>
+<metadataHash>uvzsj8XLCQR+MLYtJUC21cul0gZ1GMfZpYcNOerBuqs=</metadataHash>
+<metadataSize>48216</metadataSize>
+<powerWash>0</powerWash>
+<switchSlotOnReboot>1</switchSlotOnReboot>
+<runPostInstall>1</runPostInstall>
+</VirtualAB>
+<vendorInfo name="preload" package="update_preload_VKJ-N39_def_spcseas_R303.zip" precut_size="0" subpath=""/>
+<files>
+<file>
+<spath>update_preload_VKJ-N39_def_spcseas_R303.zip</spath>
+<dpath>update_preload_VKJ-N39_def_spcseas_R303.zip</dpath>
+<operation>c</operation>
+<sha256>87F52C31335F2599383B3FB5EEB46FAD617727A03D570886FD9EE52DD01FCA03</sha256>
+<size>268257841</size>
+</file>
+</files>
+</root>

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+<component>
+<name>TCPU</name>
+<compress>0</compress>
+</component>
+<maxStashInfo>52428800</maxStashInfo>
+<supportPKI>1</supportPKI>
+<packageType>increment</packageType>
+<packageSolution>preload</packageSolution>
+<VirtualAB>
+<support>1</support>
+<supportCowCompress>0</supportCowCompress>
+<ForceCowCompress>0</ForceCowCompress>
+<compressCowSize>0</compressCowSize>
+<cowsize>2166366208</cowsize>
+<payloadOffset>940</payloadOffset>
+<fileHash>2KE0nzFWLn3vXNXspuGnbdpLMGcQhicxaR5qDfiJn7U=</fileHash>
+<fileSize>206787886</fileSize>
+<metadataHash>5PMvBcchxbuariX0TxKZl5ogDjr556rYD5MNJsn2MfA=</metadataHash>
+<metadataSize>40879</metadataSize>
+<powerWash>0</powerWash>
+<switchSlotOnReboot>1</switchSlotOnReboot>
+<runPostInstall>1</runPostInstall>
+</VirtualAB>
+<vendorInfo name="preload" package="update_preload_MRK-N31_def_meafnaf_R201.zip" precut_size="0" subpath=""/>
+<files>
+<file>
+<spath>update_preload_MRK-N31_def_meafnaf_R201.zip</spath>
+<dpath>update_preload_MRK-N31_def_meafnaf_R201.zip</dpath>
+<operation>c</operation>
+<sha256>5E0D06DF0ACFD91437AE1B51594D11B2BA9A4B58B1E047DD2760C936AB62842C</sha256>
+<size>206795237</size>
+</file>
+</files>
+</root>

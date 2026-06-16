@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+<component>
+<name>TCPU</name>
+<compress>0</compress>
+</component>
+<maxStashInfo>52428800</maxStashInfo>
+<supportPKI>1</supportPKI>
+<packageType>increment</packageType>
+<packageSolution>preload</packageSolution>
+<VirtualAB>
+<support>1</support>
+<supportCowCompress>0</supportCowCompress>
+<ForceCowCompress>0</ForceCowCompress>
+<compressCowSize>0</compressCowSize>
+<cowsize>2070228992</cowsize>
+<payloadOffset>940</payloadOffset>
+<fileHash>KeQFPXrbXCfNjpVMr3098eZUUpV131WTqyA2iKWj6o0=</fileHash>
+<fileSize>156130396</fileSize>
+<metadataHash>jQG1POPHjM/78qFSIUX1LDeDYboVp9BnVZRfsnO3+9I=</metadataHash>
+<metadataSize>40145</metadataSize>
+<powerWash>0</powerWash>
+<switchSlotOnReboot>1</switchSlotOnReboot>
+<runPostInstall>1</runPostInstall>
+</VirtualAB>
+<vendorInfo name="preload" package="update_preload_VKP-N39_def_eea_R203.zip" precut_size="0" subpath=""/>
+<files>
+<file>
+<spath>update_preload_VKP-N39_def_eea_R203.zip</spath>
+<dpath>update_preload_VKP-N39_def_eea_R203.zip</dpath>
+<operation>c</operation>
+<sha256>C204B2E3361257F7D7D432FB0F9A7B95708CE3BE2ED8D7935D7CCF420CDADF82</sha256>
+<size>156137749</size>
+</file>
+</files>
+</root>

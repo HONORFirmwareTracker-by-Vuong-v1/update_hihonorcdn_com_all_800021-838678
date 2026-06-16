@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+<component>
+<name>TCPU</name>
+<compress>0</compress>
+</component>
+<maxStashInfo>52428800</maxStashInfo>
+<supportPKI>1</supportPKI>
+<packageType>full</packageType>
+<packageSolution>cust</packageSolution>
+<VirtualAB>
+<support>1</support>
+<supportCowCompress>0</supportCowCompress>
+<ForceCowCompress>0</ForceCowCompress>
+<compressCowSize>0</compressCowSize>
+<cowsize>1189486592</cowsize>
+<payloadOffset>799</payloadOffset>
+<fileHash>p7xqUCAEcY8dqJ0iE/vPz8txlhdR0jlJUwQh/RR9nDQ=</fileHash>
+<fileSize>566699943</fileSize>
+<metadataHash>m+0MpVcX5uPbeqLWGKLXdwaVui9fHES4eLABeN2m4ak=</metadataHash>
+<metadataSize>31535</metadataSize>
+<powerWash>0</powerWash>
+<switchSlotOnReboot>1</switchSlotOnReboot>
+<runPostInstall>1</runPostInstall>
+</VirtualAB>
+<vendorInfo name="cust" package="update_full_cust_NAA-L33_iusacell_mx.zip" precut_size="0" subpath=""/>
+<files>
+<file>
+<spath>update_full_cust_NAA-L33_iusacell_mx.zip</spath>
+<dpath>update_full_cust_NAA-L33_iusacell_mx.zip</dpath>
+<operation>c</operation>
+<sha256>B42FA48A3F8EF31F8B2B41F91B9A62F24119FABC88767DC0AAFC139FC3D1F8AA</sha256>
+<size>566707136</size>
+</file>
+</files>
+</root>

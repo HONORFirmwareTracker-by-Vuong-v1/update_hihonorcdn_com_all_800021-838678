@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+<component>
+<name>TCPU</name>
+<compress>0</compress>
+</component>
+<maxStashInfo>52428800</maxStashInfo>
+<supportPKI>1</supportPKI>
+<packageType>full</packageType>
+<packageSolution>preload</packageSolution>
+<VirtualAB>
+<support>1</support>
+<supportCowCompress>0</supportCowCompress>
+<ForceCowCompress>0</ForceCowCompress>
+<compressCowSize>0</compressCowSize>
+<cowsize>2166366208</cowsize>
+<payloadOffset>799</payloadOffset>
+<fileHash>uP3KHQpdymlQcwxdyN/Ea/4OIufJNnszMfPxPx2M4S0=</fileHash>
+<fileSize>724904654</fileSize>
+<metadataHash>zkmt0XeZ+k7e43TP9eT76ted5etHG/ImcNSJKtA362U=</metadataHash>
+<metadataSize>57201</metadataSize>
+<powerWash>0</powerWash>
+<switchSlotOnReboot>1</switchSlotOnReboot>
+<runPostInstall>1</runPostInstall>
+</VirtualAB>
+<vendorInfo name="preload" package="update_full_preload_ABR-N31_opr_meafnaf_R4.zip" precut_size="0" subpath=""/>
+<files>
+<file>
+<spath>update_full_preload_ABR-N31_opr_meafnaf_R4.zip</spath>
+<dpath>update_full_preload_ABR-N31_opr_meafnaf_R4.zip</dpath>
+<operation>c</operation>
+<sha256>9F5B0E7ECDE00EF38C67C380443E092293499FA85B5959BEC103A9C579F4FF39</sha256>
+<size>724911863</size>
+</file>
+</files>
+</root>

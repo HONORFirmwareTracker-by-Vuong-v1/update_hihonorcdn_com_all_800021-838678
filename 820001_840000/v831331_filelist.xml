@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+<component>
+<name>TCPU</name>
+<compress>0</compress>
+</component>
+<maxStashInfo>52428800</maxStashInfo>
+<supportPKI>1</supportPKI>
+<packageType>full</packageType>
+<packageSolution>preload</packageSolution>
+<VirtualAB>
+<support>1</support>
+<supportCowCompress>0</supportCowCompress>
+<ForceCowCompress>0</ForceCowCompress>
+<compressCowSize>0</compressCowSize>
+<cowsize>2166366208</cowsize>
+<payloadOffset>799</payloadOffset>
+<fileHash>WIuypfCeub4MmTZVgE5fsLPgDpwIWI67slKzql50gK0=</fileHash>
+<fileSize>221599190</fileSize>
+<metadataHash>tZZW3gPL4L6UHzJQuLlPauRhBdv7u6wtaEvx9W9vmUo=</metadataHash>
+<metadataSize>55767</metadataSize>
+<powerWash>0</powerWash>
+<switchSlotOnReboot>1</switchSlotOnReboot>
+<runPostInstall>1</runPostInstall>
+</VirtualAB>
+<vendorInfo name="preload" package="update_full_preload_MRK-N43_def_la_R602.zip" precut_size="0" subpath=""/>
+<files>
+<file>
+<spath>update_full_preload_MRK-N43_def_la_R602.zip</spath>
+<dpath>update_full_preload_MRK-N43_def_la_R602.zip</dpath>
+<operation>c</operation>
+<sha256>51A5A3236CB2F4B754178D1C2D07D31B24C0B7B1C8E6B28525F78C1453569D31</sha256>
+<size>221606399</size>
+</file>
+</files>
+</root>

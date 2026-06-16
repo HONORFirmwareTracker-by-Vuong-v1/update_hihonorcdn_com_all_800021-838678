@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+<component>
+<name>TCPU</name>
+<compress>0</compress>
+</component>
+<maxStashInfo>52428800</maxStashInfo>
+<supportPKI>1</supportPKI>
+<packageType>increment</packageType>
+<packageSolution>cust</packageSolution>
+<VirtualAB>
+<support>1</support>
+<supportCowCompress>0</supportCowCompress>
+<ForceCowCompress>0</ForceCowCompress>
+<compressCowSize>0</compressCowSize>
+<cowsize>44179456</cowsize>
+<payloadOffset>915</payloadOffset>
+<fileHash>v3w17pIeuEfoug0rmN6GFDRxJXPvtOuerc+o91ibt9c=</fileHash>
+<fileSize>753452</fileSize>
+<metadataHash>yFYMus69nr/bfS/OPS9ESyoXL+WzOuPFJ5XjgTLjoF8=</metadataHash>
+<metadataSize>830</metadataSize>
+<powerWash>0</powerWash>
+<switchSlotOnReboot>1</switchSlotOnReboot>
+<runPostInstall>1</runPostInstall>
+</VirtualAB>
+<vendorInfo name="cust" package="update_cust_DNP-N39_def_spcseas.zip" precut_size="0" subpath=""/>
+<files>
+<file>
+<spath>update_cust_DNP-N39_def_spcseas.zip</spath>
+<dpath>update_cust_DNP-N39_def_spcseas.zip</dpath>
+<operation>c</operation>
+<sha256>331CC05B21C1B2C125BDAB8321B587AA684EE106B72B7C4B9CA0F764A6F15EE1</sha256>
+<size>760759</size>
+</file>
+</files>
+</root>

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+<component>
+<name>TCPU</name>
+<compress>0</compress>
+</component>
+<maxStashInfo>52428800</maxStashInfo>
+<supportPKI>1</supportPKI>
+<packageType>full</packageType>
+<packageSolution>preload</packageSolution>
+<VirtualAB>
+<support>1</support>
+<supportCowCompress>0</supportCowCompress>
+<ForceCowCompress>0</ForceCowCompress>
+<compressCowSize>0</compressCowSize>
+<cowsize>2166366208</cowsize>
+<payloadOffset>799</payloadOffset>
+<fileHash>Rfha9j/J1jdI19+U7oeFz0eNTJFyXIliyryEckO2XMg=</fileHash>
+<fileSize>801224294</fileSize>
+<metadataHash>FGuUo+EUuAzzm5a8vOYmne+3+GRZbb7RjsaU3jlZqx0=</metadataHash>
+<metadataSize>57302</metadataSize>
+<powerWash>0</powerWash>
+<switchSlotOnReboot>1</switchSlotOnReboot>
+<runPostInstall>1</runPostInstall>
+</VirtualAB>
+<vendorInfo name="preload" package="update_full_preload_LNA-N32_channel_zt_R102.zip" precut_size="0" subpath=""/>
+<files>
+<file>
+<spath>update_full_preload_LNA-N32_channel_zt_R102.zip</spath>
+<dpath>update_full_preload_LNA-N32_channel_zt_R102.zip</dpath>
+<operation>c</operation>
+<sha256>731D4B99C33DD04CCCCC8B41D60FBD8720DFFBC31E36BCFE1AFBDC0D167EA2DE</sha256>
+<size>801231503</size>
+</file>
+</files>
+</root>

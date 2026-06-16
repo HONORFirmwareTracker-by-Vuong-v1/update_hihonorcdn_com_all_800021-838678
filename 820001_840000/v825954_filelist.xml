@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+<component>
+<name>TCPU</name>
+<compress>0</compress>
+</component>
+<maxStashInfo>52428800</maxStashInfo>
+<supportPKI>1</supportPKI>
+<packageType>increment</packageType>
+<packageSolution>cust</packageSolution>
+<VirtualAB>
+<support>1</support>
+<supportCowCompress>0</supportCowCompress>
+<ForceCowCompress>0</ForceCowCompress>
+<compressCowSize>0</compressCowSize>
+<cowsize>44048384</cowsize>
+<payloadOffset>907</payloadOffset>
+<fileHash>gU7f2JeGCMsvy3xSYSZB30/jaMB6FfrGF1Q80r6rgcU=</fileHash>
+<fileSize>31592</fileSize>
+<metadataHash>Kv1e6d78zVXNKNT++E9KOqp1bE0bPrgWV9KwSP9Khnk=</metadataHash>
+<metadataSize>1140</metadataSize>
+<powerWash>0</powerWash>
+<switchSlotOnReboot>1</switchSlotOnReboot>
+<runPostInstall>1</runPostInstall>
+</VirtualAB>
+<vendorInfo name="cust" package="update_cust_AMG-AN00_all_cn.zip" precut_size="0" subpath=""/>
+<files>
+<file>
+<spath>update_cust_AMG-AN00_all_cn.zip</spath>
+<dpath>update_cust_AMG-AN00_all_cn.zip</dpath>
+<operation>c</operation>
+<sha256>BD19E47CCFE928EF97894AA3B8266D4E7680106E31D18D17DFBF6B90F59887B6</sha256>
+<size>38893</size>
+</file>
+</files>
+</root>

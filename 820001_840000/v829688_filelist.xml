@@ -1,0 +1,14 @@
+<root>
+	<packageName>com.hihonor.android.launcher</packageName>
+	<pluginName>appmarketlauncher</pluginName>
+	<versionCode>17005301</versionCode>
+	<packageType>increment</packageType>
+	<files>
+		<file>
+			<spath>update_plugin.zip</spath>
+			<dpath>update_plugin.zip</dpath>
+			<sha256>ece9b142d1146b9387bed749f31ebf5c43948507ff9ef5728512d74e6cf1bd73</sha256>
+			<size>559765</size>
+		</file>
+	</files>
+</root>

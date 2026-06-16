@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+<component>
+<name>TCPU</name>
+<compress>0</compress>
+</component>
+<maxStashInfo>52428800</maxStashInfo>
+<supportPKI>1</supportPKI>
+<packageType>full</packageType>
+<packageSolution>preload</packageSolution>
+<VirtualAB>
+<support>1</support>
+<supportCowCompress>0</supportCowCompress>
+<ForceCowCompress>0</ForceCowCompress>
+<compressCowSize>0</compressCowSize>
+<cowsize>642097152</cowsize>
+<payloadOffset>783</payloadOffset>
+<fileHash>uch5RR7dngrYvBMPlp/xM2FpLNc82lYKUH5QX6RlCJQ=</fileHash>
+<fileSize>6719124</fileSize>
+<metadataHash>2LMfzKDHfJcjc88pjsgijruwYPy0iou1hWqeVGOmIRo=</metadataHash>
+<metadataSize>16420</metadataSize>
+<powerWash>0</powerWash>
+<switchSlotOnReboot>1</switchSlotOnReboot>
+<runPostInstall>1</runPostInstall>
+</VirtualAB>
+<vendorInfo name="preload" package="update_full_preload_VKP-N39_opr_eu_R102.zip" precut_size="0" subpath=""/>
+<files>
+<file>
+<spath>update_full_preload_VKP-N39_opr_eu_R102.zip</spath>
+<dpath>update_full_preload_VKP-N39_opr_eu_R102.zip</dpath>
+<operation>c</operation>
+<sha256>B7AEDAD31B063050D2921F582B45DA2C4AE5FAF3D262CA1949455BEB5B9E0524</sha256>
+<size>6726319</size>
+</file>
+</files>
+</root>

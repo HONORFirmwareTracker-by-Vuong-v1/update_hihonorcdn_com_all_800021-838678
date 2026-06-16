@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+<component>
+<name>TCPU</name>
+<compress>0</compress>
+</component>
+<maxStashInfo>52428800</maxStashInfo>
+<supportPKI>1</supportPKI>
+<packageType>full</packageType>
+<packageSolution>cust</packageSolution>
+<VirtualAB>
+<support>1</support>
+<supportCowCompress>0</supportCowCompress>
+<ForceCowCompress>0</ForceCowCompress>
+<compressCowSize>0</compressCowSize>
+<cowsize>2486378496</cowsize>
+<payloadOffset>775</payloadOffset>
+<fileHash>f573aRAhErj1Fok03TOhyVp981kMGrdEOCziErjm3sQ=</fileHash>
+<fileSize>124492</fileSize>
+<metadataHash>L7sPRLVF+lEoAHF2llNr3wC9ZtCS7UTf4WJur6CMH9g=</metadataHash>
+<metadataSize>62310</metadataSize>
+<powerWash>0</powerWash>
+<switchSlotOnReboot>1</switchSlotOnReboot>
+<runPostInstall>1</runPostInstall>
+</VirtualAB>
+<vendorInfo name="cust" package="update_full_cust_LGN-L41_def_eea.zip" precut_size="0" subpath=""/>
+<files>
+<file>
+<spath>update_full_cust_LGN-L41_def_eea.zip</spath>
+<dpath>update_full_cust_LGN-L41_def_eea.zip</dpath>
+<operation>c</operation>
+<sha256>6E6B77936E3BE910887518950D38873568519E2BBEE755D3656592CD0A1F3938</sha256>
+<size>131657</size>
+</file>
+</files>
+</root>

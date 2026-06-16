@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+<component>
+<name>TCPU</name>
+<compress>0</compress>
+</component>
+<maxStashInfo>52428800</maxStashInfo>
+<supportPKI>1</supportPKI>
+<packageType>increment</packageType>
+<packageSolution>preload</packageSolution>
+<VirtualAB>
+<support>1</support>
+<supportCowCompress>0</supportCowCompress>
+<ForceCowCompress>0</ForceCowCompress>
+<compressCowSize>0</compressCowSize>
+<cowsize>2032603136</cowsize>
+<payloadOffset>940</payloadOffset>
+<fileHash>Nsjsmf4HpCsaxlMQxfda4NqgXN7FjCcdGQEpasrppys=</fileHash>
+<fileSize>482909395</fileSize>
+<metadataHash>+6p6UEP8ud7XfDmSjL1G8K/XJPGXjnGdm+HEBLMFp/o=</metadataHash>
+<metadataSize>59038</metadataSize>
+<powerWash>0</powerWash>
+<switchSlotOnReboot>1</switchSlotOnReboot>
+<runPostInstall>1</runPostInstall>
+</VirtualAB>
+<vendorInfo name="preload" package="update_preload_SER-AN00_all_cn_R401.zip" precut_size="0" subpath=""/>
+<files>
+<file>
+<spath>update_preload_SER-AN00_all_cn_R401.zip</spath>
+<dpath>update_preload_SER-AN00_all_cn_R401.zip</dpath>
+<operation>c</operation>
+<sha256>35C41E1AB83359E174442C76A71E32DE2CF807075B500C98B7C7A34EB3A755C2</sha256>
+<size>482916744</size>
+</file>
+</files>
+</root>

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+<component>
+<name>TCPU</name>
+<compress>0</compress>
+</component>
+<maxStashInfo>52428800</maxStashInfo>
+<supportPKI>1</supportPKI>
+<packageType>full</packageType>
+<packageSolution>cust</packageSolution>
+<VirtualAB>
+<support>1</support>
+<supportCowCompress>0</supportCowCompress>
+<ForceCowCompress>0</ForceCowCompress>
+<compressCowSize>0</compressCowSize>
+<cowsize>4111704064</cowsize>
+<payloadOffset>800</payloadOffset>
+<fileHash>oJWP5l0TVuCKr/CEcDhRN4uYjZ+rSEXDioU1Bq/rfYQ=</fileHash>
+<fileSize>170614537</fileSize>
+<metadataHash>uV6g5vwKhKx9FRsVW4cfiBiBG75uqfyTq4QDiO0kD0M=</metadataHash>
+<metadataSize>105619</metadataSize>
+<powerWash>0</powerWash>
+<switchSlotOnReboot>1</switchSlotOnReboot>
+<runPostInstall>1</runPostInstall>
+</VirtualAB>
+<vendorInfo name="cust" package="update_full_cust_DNP-N39_opr_eea.zip" precut_size="0" subpath=""/>
+<files>
+<file>
+<spath>update_full_cust_DNP-N39_opr_eea.zip</spath>
+<dpath>update_full_cust_DNP-N39_opr_eea.zip</dpath>
+<operation>c</operation>
+<sha256>2CF155B4B60ED40181A6422EFFE6DECA36042C811BC8FB702524BDB385AFD6AB</sha256>
+<size>170621738</size>
+</file>
+</files>
+</root>

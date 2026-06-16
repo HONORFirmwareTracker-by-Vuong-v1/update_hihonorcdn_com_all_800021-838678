@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+<component>
+<name>TCPU</name>
+<compress>0</compress>
+</component>
+<maxStashInfo>52428800</maxStashInfo>
+<supportPKI>1</supportPKI>
+<packageType>full</packageType>
+<packageSolution>preload</packageSolution>
+<VirtualAB>
+<support>1</support>
+<supportCowCompress>0</supportCowCompress>
+<ForceCowCompress>0</ForceCowCompress>
+<compressCowSize>0</compressCowSize>
+<cowsize>3589578752</cowsize>
+<payloadOffset>807</payloadOffset>
+<fileHash>qKXsuErChuM20hyulqL/HVuQiXZvSaJBbR4wLdJnLQc=</fileHash>
+<fileSize>1028213761</fileSize>
+<metadataHash>vfMmorc1TLrnBhoSBtWD4/u1sm9fF2a47dCUTJDEdm0=</metadataHash>
+<metadataSize>94744</metadataSize>
+<powerWash>0</powerWash>
+<switchSlotOnReboot>1</switchSlotOnReboot>
+<runPostInstall>1</runPostInstall>
+</VirtualAB>
+<vendorInfo name="preload" package="update_full_preload_VKJ-N39_def_meafnaf_R401.zip" precut_size="0" subpath=""/>
+<files>
+<file>
+<spath>update_full_preload_VKJ-N39_def_meafnaf_R401.zip</spath>
+<dpath>update_full_preload_VKJ-N39_def_meafnaf_R401.zip</dpath>
+<operation>c</operation>
+<sha256>9C6ABF0329F51D8C71256C8F38DB6678F73EBE3B242652EDE8CE33E3D795969A</sha256>
+<size>1028220975</size>
+</file>
+</files>
+</root>

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+<component>
+<name>TCPU</name>
+<compress>0</compress>
+</component>
+<maxStashInfo>52428800</maxStashInfo>
+<supportPKI>1</supportPKI>
+<packageType>increment</packageType>
+<packageSolution>cust</packageSolution>
+<VirtualAB>
+<support>1</support>
+<supportCowCompress>0</supportCowCompress>
+<ForceCowCompress>0</ForceCowCompress>
+<compressCowSize>0</compressCowSize>
+<cowsize>416256000</cowsize>
+<payloadOffset>907</payloadOffset>
+<fileHash>ICddHqiVziqXFUy7vhNZP5gjjURrcmeNkUVKGbYsCiE=</fileHash>
+<fileSize>29332</fileSize>
+<metadataHash>ZG2gfRxfrNjVvEB6D4L0pk0k+ZdCKr+d1M0/7W3yQKo=</metadataHash>
+<metadataSize>9582</metadataSize>
+<powerWash>0</powerWash>
+<switchSlotOnReboot>1</switchSlotOnReboot>
+<runPostInstall>1</runPostInstall>
+</VirtualAB>
+<vendorInfo name="cust" package="update_cust_ALI-N21_opr_eea.zip" precut_size="0" subpath=""/>
+<files>
+<file>
+<spath>update_cust_ALI-N21_opr_eea.zip</spath>
+<dpath>update_cust_ALI-N21_opr_eea.zip</dpath>
+<operation>c</operation>
+<sha256>13BBDB256A23207C71A6DF4FB227479F785715591E2D50FB2C61764F36C6CEC8</sha256>
+<size>36630</size>
+</file>
+</files>
+</root>

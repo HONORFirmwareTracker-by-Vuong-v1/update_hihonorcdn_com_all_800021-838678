@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+<component>
+<name>TCPU</name>
+<compress>0</compress>
+</component>
+<maxStashInfo>52428800</maxStashInfo>
+<supportPKI>1</supportPKI>
+<packageType>increment</packageType>
+<packageSolution>cust</packageSolution>
+<VirtualAB>
+<support>1</support>
+<supportCowCompress>0</supportCowCompress>
+<ForceCowCompress>0</ForceCowCompress>
+<compressCowSize>0</compressCowSize>
+<cowsize>43954176</cowsize>
+<payloadOffset>899</payloadOffset>
+<fileHash>msVZpgTOVYNtDqDsFnWYPBbwQsw5+Tvlk+Nx2LyDRZY=</fileHash>
+<fileSize>4787</fileSize>
+<metadataHash>3P5uFQL6+mw0PL49C58jsaGalEBDQ6e6QixmBtYVfPs=</metadataHash>
+<metadataSize>989</metadataSize>
+<powerWash>0</powerWash>
+<switchSlotOnReboot>1</switchSlotOnReboot>
+<runPostInstall>1</runPostInstall>
+</VirtualAB>
+<vendorInfo name="cust" package="update_cust_YLE-W00_all_cn.zip" precut_size="0" subpath=""/>
+<files>
+<file>
+<spath>update_cust_YLE-W00_all_cn.zip</spath>
+<dpath>update_cust_YLE-W00_all_cn.zip</dpath>
+<operation>c</operation>
+<sha256>41309F6C73A9AC7FAB39FB157139F9980E594806AA53D227537F15507A8E6276</sha256>
+<size>12069</size>
+</file>
+</files>
+</root>

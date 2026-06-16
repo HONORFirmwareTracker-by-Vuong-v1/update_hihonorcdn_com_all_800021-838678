@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+<component>
+<name>TCPU</name>
+<compress>0</compress>
+</component>
+<maxStashInfo>52428800</maxStashInfo>
+<supportPKI>1</supportPKI>
+<packageType>increment</packageType>
+<packageSolution>cust</packageSolution>
+<VirtualAB>
+<support>1</support>
+<supportCowCompress>0</supportCowCompress>
+<ForceCowCompress>0</ForceCowCompress>
+<compressCowSize>0</compressCowSize>
+<cowsize>41345024</cowsize>
+<payloadOffset>907</payloadOffset>
+<fileHash>S56JDEYs6DameOLzS2lnB4v9/Nx6YPO+Rda35TEptt8=</fileHash>
+<fileSize>11565</fileSize>
+<metadataHash>tL2tI4ejJ86o80OBkT7VKY3WUcJWXtjbiof7AcFOBQs=</metadataHash>
+<metadataSize>1118</metadataSize>
+<powerWash>0</powerWash>
+<switchSlotOnReboot>1</switchSlotOnReboot>
+<runPostInstall>1</runPostInstall>
+</VirtualAB>
+<vendorInfo name="cust" package="update_cust_BRC-N21_def_spcseas.zip" precut_size="0" subpath=""/>
+<files>
+<file>
+<spath>update_cust_BRC-N21_def_spcseas.zip</spath>
+<dpath>update_cust_BRC-N21_def_spcseas.zip</dpath>
+<operation>c</operation>
+<sha256>3AE4066E5A041088F3FC34F9A283447856424988168A9C2BD8B032613CFCA54C</sha256>
+<size>18863</size>
+</file>
+</files>
+</root>
