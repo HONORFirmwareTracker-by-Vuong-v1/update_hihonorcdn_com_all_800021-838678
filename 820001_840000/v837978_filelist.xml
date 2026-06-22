@@ -1,0 +1,14 @@
+<root>
+	<packageName>com.hihonor.visionengine</packageName>
+	<pluginName>featureextract</pluginName>
+	<versionCode>100112042</versionCode>
+	<packageType>increment</packageType>
+	<files>
+		<file>
+			<spath>update_plugin.zip</spath>
+			<dpath>update_plugin.zip</dpath>
+			<sha256>2bff1c7b413bdec73d51fed7f707b0fda11d83ab1e276f983af10ca4fb06bb79</sha256>
+			<size>313541</size>
+		</file>
+	</files>
+</root>

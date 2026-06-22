@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+<component>
+<name>TCPU</name>
+<compress>0</compress>
+</component>
+<maxStashInfo>52428800</maxStashInfo>
+<supportPKI>1</supportPKI>
+<packageType>full</packageType>
+<packageSolution>preload</packageSolution>
+<VirtualAB>
+<support>1</support>
+<supportCowCompress>0</supportCowCompress>
+<ForceCowCompress>0</ForceCowCompress>
+<compressCowSize>0</compressCowSize>
+<cowsize>642097152</cowsize>
+<payloadOffset>799</payloadOffset>
+<fileHash>8Vy/TdyCj7JcPGDK2bb+F8OA+0r3f/1cK9VWzvBaM+o=</fileHash>
+<fileSize>164882408</fileSize>
+<metadataHash>Da4gjavt6Un3p0xupARpaokzidgm68JDfSaWpSUQGoA=</metadataHash>
+<metadataSize>16597</metadataSize>
+<powerWash>0</powerWash>
+<switchSlotOnReboot>1</switchSlotOnReboot>
+<runPostInstall>1</runPostInstall>
+</VirtualAB>
+<vendorInfo name="preload" package="update_full_preload_LAB-L43_iusacell_mx_R201.zip" precut_size="0" subpath=""/>
+<files>
+<file>
+<spath>update_full_preload_LAB-L43_iusacell_mx_R201.zip</spath>
+<dpath>update_full_preload_LAB-L43_iusacell_mx_R201.zip</dpath>
+<operation>c</operation>
+<sha256>7859A24956B4EB058F7D004614C0D469A27677B72FD333574624F8CB9E340F4E</sha256>
+<size>164889616</size>
+</file>
+</files>
+</root>

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+<component>
+<name>TCPU</name>
+<compress>0</compress>
+</component>
+<maxStashInfo>52428800</maxStashInfo>
+<supportPKI>1</supportPKI>
+<packageType>full</packageType>
+<packageSolution>cust</packageSolution>
+<VirtualAB>
+<support>1</support>
+<supportCowCompress>0</supportCowCompress>
+<ForceCowCompress>0</ForceCowCompress>
+<compressCowSize>0</compressCowSize>
+<cowsize>1189486592</cowsize>
+<payloadOffset>799</payloadOffset>
+<fileHash>TUxWMuEqtmdjiAYQYZQFXgAkcOIvR8akpBUIudT2JWw=</fileHash>
+<fileSize>634687280</fileSize>
+<metadataHash>TFxNXXZNjXtU8pvwNn5/ENH0+U1Mu5NdFUZFJyEI55g=</metadataHash>
+<metadataSize>31618</metadataSize>
+<powerWash>0</powerWash>
+<switchSlotOnReboot>1</switchSlotOnReboot>
+<runPostInstall>1</runPostInstall>
+</VirtualAB>
+<vendorInfo name="cust" package="update_full_cust_JDY-L43P_iusacell_mx.zip" precut_size="0" subpath=""/>
+<files>
+<file>
+<spath>update_full_cust_JDY-L43P_iusacell_mx.zip</spath>
+<dpath>update_full_cust_JDY-L43P_iusacell_mx.zip</dpath>
+<operation>c</operation>
+<sha256>B72A4801F0520049FEEEE823638C01A74039A6F4ACA232F69E10403610860F08</sha256>
+<size>634694479</size>
+</file>
+</files>
+</root>
