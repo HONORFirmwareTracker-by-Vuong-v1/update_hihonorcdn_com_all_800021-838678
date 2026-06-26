@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+<component>
+<name>TCPU</name>
+<compress>0</compress>
+</component>
+<maxStashInfo>52428800</maxStashInfo>
+<supportPKI>1</supportPKI>
+<packageType>full</packageType>
+<packageSolution>preload</packageSolution>
+<VirtualAB>
+<support>1</support>
+<supportCowCompress>0</supportCowCompress>
+<ForceCowCompress>0</ForceCowCompress>
+<compressCowSize>0</compressCowSize>
+<cowsize>2166366208</cowsize>
+<payloadOffset>807</payloadOffset>
+<fileHash>pSkt6NOaY6F0XYZLXK3P5Pj6vvdaqe1PkT7Qfxn/FNU=</fileHash>
+<fileSize>1124132606</fileSize>
+<metadataHash>+UOP6n4xeB3TsOq+nVvRplTh50JqQf0QX219f7+4nNc=</metadataHash>
+<metadataSize>57683</metadataSize>
+<powerWash>0</powerWash>
+<switchSlotOnReboot>1</switchSlotOnReboot>
+<runPostInstall>1</runPostInstall>
+</VirtualAB>
+<vendorInfo name="preload" package="update_full_preload_LNA-N33_def_la_R203.zip" precut_size="0" subpath=""/>
+<files>
+<file>
+<spath>update_full_preload_LNA-N33_def_la_R203.zip</spath>
+<dpath>update_full_preload_LNA-N33_def_la_R203.zip</dpath>
+<operation>c</operation>
+<sha256>187B3483E354EDD145711B5806045AF4E7F1D177656D17749FB3869B6505F5E1</sha256>
+<size>1124139821</size>
+</file>
+</files>
+</root>

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+<component>
+<name>TCPU</name>
+<compress>0</compress>
+</component>
+<maxStashInfo>52428800</maxStashInfo>
+<supportPKI>1</supportPKI>
+<packageType>increment</packageType>
+<packageSolution>cust</packageSolution>
+<VirtualAB>
+<support>1</support>
+<supportCowCompress>0</supportCowCompress>
+<ForceCowCompress>0</ForceCowCompress>
+<compressCowSize>0</compressCowSize>
+<cowsize>44167168</cowsize>
+<payloadOffset>899</payloadOffset>
+<fileHash>jANp95kmN74IZomHiy5PWK7k8wrtGbgKlqnwAbYKRDw=</fileHash>
+<fileSize>4095</fileSize>
+<metadataHash>wqHNNsiEqTE9zZ02nhL8dQxsea8sy7Qcsq/lFYKJjSE=</metadataHash>
+<metadataSize>783</metadataSize>
+<powerWash>0</powerWash>
+<switchSlotOnReboot>1</switchSlotOnReboot>
+<runPostInstall>1</runPostInstall>
+</VirtualAB>
+<vendorInfo name="cust" package="update_cust_HEY3-W09_def_tr.zip" precut_size="0" subpath=""/>
+<files>
+<file>
+<spath>update_cust_HEY3-W09_def_tr.zip</spath>
+<dpath>update_cust_HEY3-W09_def_tr.zip</dpath>
+<operation>c</operation>
+<sha256>E63455FE73E4C2EBC13E2388CAC7A5177E357ED5617A6F9F40E04000EC8EA5F8</sha256>
+<size>11384</size>
+</file>
+</files>
+</root>

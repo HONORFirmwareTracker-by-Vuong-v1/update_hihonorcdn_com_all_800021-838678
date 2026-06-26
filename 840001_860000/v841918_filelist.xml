@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+<component>
+<name>TCPU</name>
+<compress>0</compress>
+</component>
+<maxStashInfo>52428800</maxStashInfo>
+<supportPKI>1</supportPKI>
+<packageType>increment</packageType>
+<packageSolution>cust</packageSolution>
+<VirtualAB>
+<support>1</support>
+<supportCowCompress>0</supportCowCompress>
+<ForceCowCompress>0</ForceCowCompress>
+<compressCowSize>0</compressCowSize>
+<cowsize>44179456</cowsize>
+<payloadOffset>915</payloadOffset>
+<fileHash>DCW4n8z6Z9laYQ/vnUIrx71c90N9Vxqt8GBt9JLDNBY=</fileHash>
+<fileSize>421091</fileSize>
+<metadataHash>BWOr/UvN2HeNlcv7rYmVUWsFb6BqONaAZoi1M+bUeuA=</metadataHash>
+<metadataSize>830</metadataSize>
+<powerWash>0</powerWash>
+<switchSlotOnReboot>1</switchSlotOnReboot>
+<runPostInstall>1</runPostInstall>
+</VirtualAB>
+<vendorInfo name="cust" package="update_cust_JDY-L43P_def_la.zip" precut_size="0" subpath=""/>
+<files>
+<file>
+<spath>update_cust_JDY-L43P_def_la.zip</spath>
+<dpath>update_cust_JDY-L43P_def_la.zip</dpath>
+<operation>c</operation>
+<sha256>F29B92B2DA277EFCA3F26CA6F57DF28A94A657F8EB9C0E73C5B654549674316B</sha256>
+<size>428400</size>
+</file>
+</files>
+</root>

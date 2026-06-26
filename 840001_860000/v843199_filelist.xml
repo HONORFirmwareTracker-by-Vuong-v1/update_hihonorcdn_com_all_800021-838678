@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+<component>
+<name>TCPU</name>
+<compress>0</compress>
+</component>
+<maxStashInfo>52428800</maxStashInfo>
+<supportPKI>1</supportPKI>
+<packageType>full</packageType>
+<packageSolution>preload</packageSolution>
+<VirtualAB>
+<support>1</support>
+<supportCowCompress>0</supportCowCompress>
+<ForceCowCompress>0</ForceCowCompress>
+<compressCowSize>0</compressCowSize>
+<cowsize>1214750720</cowsize>
+<payloadOffset>799</payloadOffset>
+<fileHash>tMA2d1fv74x88AwFZHXEC3mrLx/3JG4iOks9uA1FNoM=</fileHash>
+<fileSize>769852444</fileSize>
+<metadataHash>6WOzP3A2nm4ypmojSjU9qBER+Gn+vNH0puCQcOuro4k=</metadataHash>
+<metadataSize>32405</metadataSize>
+<powerWash>0</powerWash>
+<switchSlotOnReboot>1</switchSlotOnReboot>
+<runPostInstall>1</runPostInstall>
+</VirtualAB>
+<vendorInfo name="preload" package="update_full_preload_YAG-W19_def_meafnaf_R601.zip" precut_size="0" subpath=""/>
+<files>
+<file>
+<spath>update_full_preload_YAG-W19_def_meafnaf_R601.zip</spath>
+<dpath>update_full_preload_YAG-W19_def_meafnaf_R601.zip</dpath>
+<operation>c</operation>
+<sha256>779A2E60589CFF00C96DC4662A85693D377600B71F7892E91DBA00ECBBE55906</sha256>
+<size>769859656</size>
+</file>
+</files>
+</root>

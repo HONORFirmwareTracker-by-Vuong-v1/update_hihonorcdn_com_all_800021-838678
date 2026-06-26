@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+<component>
+<name>TCPU</name>
+<compress>0</compress>
+</component>
+<maxStashInfo>52428800</maxStashInfo>
+<supportPKI>1</supportPKI>
+<packageType>full</packageType>
+<packageSolution>cust</packageSolution>
+<VirtualAB>
+<support>1</support>
+<supportCowCompress>0</supportCowCompress>
+<ForceCowCompress>0</ForceCowCompress>
+<compressCowSize>0</compressCowSize>
+<cowsize>44179456</cowsize>
+<payloadOffset>758</payloadOffset>
+<fileHash>lSj6oZMw/QnYPg8xNt9zGVE5KlkllpvyQbCHGa7/Vrg=</fileHash>
+<fileSize>7490</fileSize>
+<metadataHash>aDikrXdj/wBao4wY7aUtL8euiMKiDFKQkWCqIkJpFno=</metadataHash>
+<metadataSize>1060</metadataSize>
+<powerWash>0</powerWash>
+<switchSlotOnReboot>1</switchSlotOnReboot>
+<runPostInstall>1</runPostInstall>
+</VirtualAB>
+<vendorInfo name="cust" package="update_full_cust_YAG-W09_def_spcseas.zip" precut_size="0" subpath=""/>
+<files>
+<file>
+<spath>update_full_cust_YAG-W09_def_spcseas.zip</spath>
+<dpath>update_full_cust_YAG-W09_def_spcseas.zip</dpath>
+<operation>c</operation>
+<sha256>2D782E222A5C0F167F3FA9CD4E2D8C77DBE8D7CFF38B96E49D488F8E81C5706B</sha256>
+<size>14637</size>
+</file>
+</files>
+</root>

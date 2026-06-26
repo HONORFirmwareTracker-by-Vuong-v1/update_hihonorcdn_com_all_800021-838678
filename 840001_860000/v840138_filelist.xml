@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+<component>
+<name>TCPU</name>
+<compress>0</compress>
+</component>
+<maxStashInfo>52428800</maxStashInfo>
+<supportPKI>1</supportPKI>
+<packageType>increment</packageType>
+<packageSolution>preload</packageSolution>
+<VirtualAB>
+<support>1</support>
+<supportCowCompress>0</supportCowCompress>
+<ForceCowCompress>0</ForceCowCompress>
+<compressCowSize>0</compressCowSize>
+<cowsize>642084864</cowsize>
+<payloadOffset>899</payloadOffset>
+<fileHash>tlkbtDfaB3+RNWzmIJSH19o/w6B/unhQUBXDoFX6Trw=</fileHash>
+<fileSize>7987</fileSize>
+<metadataHash>WC1/jDw11OrvgSOJMtwPxfh3GC0AiOl0NnJDsSmmn/c=</metadataHash>
+<metadataSize>4365</metadataSize>
+<powerWash>0</powerWash>
+<switchSlotOnReboot>1</switchSlotOnReboot>
+<runPostInstall>1</runPostInstall>
+</VirtualAB>
+<vendorInfo name="preload" package="update_preload_JDY-L13P_claro_la_R1.zip" precut_size="0" subpath=""/>
+<files>
+<file>
+<spath>update_preload_JDY-L13P_claro_la_R1.zip</spath>
+<dpath>update_preload_JDY-L13P_claro_la_R1.zip</dpath>
+<operation>c</operation>
+<sha256>5C5A74611D1CC1BBF6992FCE97C2FFC78E4FD2A7FC950A64D687DC9A05774D20</sha256>
+<size>15285</size>
+</file>
+</files>
+</root>

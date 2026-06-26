@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+<component>
+<name>TCPU</name>
+<compress>0</compress>
+</component>
+<maxStashInfo>52428800</maxStashInfo>
+<supportPKI>1</supportPKI>
+<packageType>increment</packageType>
+<packageSolution>cust</packageSolution>
+<VirtualAB>
+<support>1</support>
+<supportCowCompress>0</supportCowCompress>
+<ForceCowCompress>0</ForceCowCompress>
+<compressCowSize>0</compressCowSize>
+<cowsize>3395887104</cowsize>
+<payloadOffset>940</payloadOffset>
+<fileHash>5lb2nYOYgExdPE4fh014ZZG5KTpKBuujYXSyixDEG60=</fileHash>
+<fileSize>123925265</fileSize>
+<metadataHash>T1oocqRy+kQk5ArH7cxWcnNrwp5ChOtsxrJ5Cgo91T4=</metadataHash>
+<metadataSize>22640</metadataSize>
+<powerWash>0</powerWash>
+<switchSlotOnReboot>1</switchSlotOnReboot>
+<runPostInstall>1</runPostInstall>
+</VirtualAB>
+<vendorInfo name="cust" package="update_cust_ABR-N31_opr_eea.zip" precut_size="0" subpath=""/>
+<files>
+<file>
+<spath>update_cust_ABR-N31_opr_eea.zip</spath>
+<dpath>update_cust_ABR-N31_opr_eea.zip</dpath>
+<operation>c</operation>
+<sha256>78ABDF4E47F0B29359D584FA3D18F5A344AD3294A3C45ECCDF19A8ECDFA676C8</sha256>
+<size>123932601</size>
+</file>
+</files>
+</root>

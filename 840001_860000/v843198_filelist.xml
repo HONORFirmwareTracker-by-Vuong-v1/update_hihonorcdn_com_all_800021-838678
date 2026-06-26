@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+<component>
+<name>TCPU</name>
+<compress>0</compress>
+</component>
+<maxStashInfo>52428800</maxStashInfo>
+<supportPKI>1</supportPKI>
+<packageType>full</packageType>
+<packageSolution>cust</packageSolution>
+<VirtualAB>
+<support>1</support>
+<supportCowCompress>0</supportCowCompress>
+<ForceCowCompress>0</ForceCowCompress>
+<compressCowSize>0</compressCowSize>
+<cowsize>44179456</cowsize>
+<payloadOffset>758</payloadOffset>
+<fileHash>3gk84XBr5XwJStNzwaxL1R48bkz3g8ieXwszQEq0rU0=</fileHash>
+<fileSize>7486</fileSize>
+<metadataHash>GRc9yLNJS3j+E2u8TD57xG8orH1CUXiIhzJ6+kVBQyA=</metadataHash>
+<metadataSize>1060</metadataSize>
+<powerWash>0</powerWash>
+<switchSlotOnReboot>1</switchSlotOnReboot>
+<runPostInstall>1</runPostInstall>
+</VirtualAB>
+<vendorInfo name="cust" package="update_full_cust_YAG-W19_def_meafnaf.zip" precut_size="0" subpath=""/>
+<files>
+<file>
+<spath>update_full_cust_YAG-W19_def_meafnaf.zip</spath>
+<dpath>update_full_cust_YAG-W19_def_meafnaf.zip</dpath>
+<operation>c</operation>
+<sha256>62FE531E86A0DFEE4ECABB3E2CBF1C31CBD6D1BC86267CBB51AC395C423AE5D3</sha256>
+<size>14629</size>
+</file>
+</files>
+</root>
